@@ -1,0 +1,24 @@
+apiVersion: v1
+entries:
+  spring-boot:
+  - apiVersion: v2
+    appVersion: 2.2.0
+    created: "2022-05-25T18:24:21.40371209+08:00"
+    description: Spring Boot Helm chart for Kubernetes
+    digest: 43d7f22c87dd0852b2645f7a7383797878b381464411e5a479743a773ec8829f
+    home: http://www.mydlq.club
+    keywords:
+    - java
+    - spring-boot
+    - spring-cloud
+    maintainers:
+    - email: mynamedlq@163.com
+      name: mydlq
+    name: spring-boot
+    sources:
+    - https://github.com/my-dlq/springboot-chart
+    type: application
+    urls:
+    - https://maikoulin.github.io/helm-chart/spring-boot-2.0.2.tgz
+    version: 2.0.2
+generated: "2022-05-25T18:24:21.40262504+08:00"
