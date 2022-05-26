@@ -6,7 +6,7 @@
 
 1、添加chart仓库
 ```
-# helm repo add myrepo https://yushanjin.github.io/helm-chart
+# helm repo add myrepo https://maikoulin.github.io/helm-chart
 ```
 
 2、添加成功
